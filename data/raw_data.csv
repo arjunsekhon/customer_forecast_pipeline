@@ -1,0 +1,4 @@
+period_date,new_customers,churned_customers,marketing_spend,channel,region,opening_customers,conversion_rate,website_visits,ad_impressions,promotion_flag,avg_revenue_per_user,payment_failure_rate,support_tickets,avg_temperature,competitor_price_index,economic_indicator,customer_satisfaction,referral_count,data_source,ingestion_timestamp
+2023-01-01,100,20,4000,Paid Search,EMEA,1000,0.05,2000,50000,True,50.0,0.02,15,5.0,1.02,95.0,7.5,10,CRM_API,2025-04-18
+2023-02-01,110,25,4500,Paid Search,EMEA,1080,0.055,2200,55000,False,52.0,0.018,12,7.0,1.01,96.5,7.8,14,CRM_API,2025-04-18
+2023-03-01,130,30,5000,Paid Search,EMEA,1165,0.058,2300,60000,True,53.5,0.022,20,10.0,1.0,97.0,7.6,18,CRM_API,2025-04-18

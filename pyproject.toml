@@ -1,0 +1,14 @@
+[project]
+name = "customer-forecast-pipeline"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "gspread>=6.2.0",
+    "pandas>=2.2.3",
+    "pulp>=3.1.1",
+    "python-dotenv>=1.1.0",
+    "requests>=2.32.3",
+    "statsmodels>=0.14.4",
+]
